@@ -1,4 +1,4 @@
-> **Project status:** not completed :warning: </br>
+> **Project status:** not completed :heavy_check_mark: </br>
 > **Author:** Juliana Marino Balera :busts_in_silhouette:
 
 # Álgebra de mapas com o framework GeoTrellis (NDVI) :earth_americas:
